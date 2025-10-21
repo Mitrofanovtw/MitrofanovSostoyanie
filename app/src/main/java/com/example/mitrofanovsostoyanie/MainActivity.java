@@ -84,6 +84,7 @@ public class MainActivity extends AppCompatActivity
     }
 
     public void getData(View view)
+
     {
         try
         {
